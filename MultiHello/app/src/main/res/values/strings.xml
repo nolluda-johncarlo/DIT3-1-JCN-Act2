@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiHello</string>
+    <string name="activity_main">Activity Main</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="btn_navigate">Navigate</string>
+    <string name="welcometoscreen2">WelcometoScreen2</string>
+    <string name="main_screen">Main_Screen</string>
+    <string name="welcome_to_screen_2">Welcome_to_Screen_2</string>
+</resources>
